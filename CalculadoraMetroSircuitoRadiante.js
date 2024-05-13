@@ -1,4 +1,4 @@
-const btn = document.getElementById("cBtn");
+const btn = document.querySelector("#cBtn");
 const htmlVal1 = document.querySelector("#value1");
 const htmlVal2 = document.querySelector("#value2");
 const htmlVal3 = document.querySelector("#value3");
